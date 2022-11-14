@@ -392,6 +392,7 @@ h1 {
   min-height: 737px;
   padding: 0 12%;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 .seguros-section h2 {
