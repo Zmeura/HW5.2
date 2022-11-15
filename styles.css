@@ -1,8 +1,5 @@
-/* font-family: 'Merriweather', serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif; */
 body {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
 }
 .main {
@@ -12,6 +9,7 @@ body {
   padding: 0;
   font-family: "Poppins", sans-serif;
   color: #ffffff;
+  margin: 0 auto;
 }
 
 header {
@@ -25,7 +23,6 @@ header {
   color: #ffffff;
   position: fixed;
   top: 0;
-  left: 0;
   align-items: center;
   padding: 5px 12%;
   z-index: 10;
